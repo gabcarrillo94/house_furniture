@@ -1,0 +1,10 @@
+[17-Nov-2016 12:32:34 UTC] PHP Warning:  require_once(/home/luxlukdesign/public_htmlbootstrap/app.php): failed to open stream: No such file or directory in /home/luxlukdesign/public_html/index.php on line 36
+[17-Nov-2016 12:32:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/luxlukdesign/public_htmlbootstrap/app.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/luxlukdesign/public_html/index.php on line 36
+[22-Nov-2016 12:30:10 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:04:14 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:05:10 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:07:26 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:08:20 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:08:31 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:09:16 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
+[23-Nov-2016 03:09:44 UTC] PHP Fatal error:  Class 'CreateShowroomsTable' not found in /home/luxlukdesign/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 323
